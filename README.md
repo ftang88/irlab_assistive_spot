@@ -20,4 +20,4 @@ A computer vision model is used to identify the game pieces, which includes reco
 
 ## Future Work
 
-SPOT sometimes takes a while to indentify the bottle, especially on a cluttered table, so I plan to retrain the computer vision model with more images of cluttered backgrounds to increase the accuracy and detection rate. I also hope to add more features like dropping off the medicine bottle and ways to detect the medicine bottle if it is obstructed from a front view.
+SPOT sometimes takes a while to identify the bottle, especially on a cluttered table, so I plan to retrain the computer vision model with more images of cluttered backgrounds to increase the accuracy and detection rate. I also hope to add more features like dropping off the medicine bottle and ways to detect the medicine bottle if it is obstructed from a front view.
